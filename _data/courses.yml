@@ -1,0 +1,58 @@
+- number: 15-122
+  name: Principles of Imperative Computation
+  instructor: Dilsun Kaynar; Iliano Cervesato
+
+- number: 15-150
+  name: Principles of Functional Programming
+  instructor: Stephen Brookes
+
+- number: 15-210
+  name: Parallel and Sequential Data Structures and Algorithms
+  instructor: Guy Blelloch; Charlie Garrod
+
+- number: 15-312
+  name: Foundations of Programming Languages
+  instructor: Bob Harper
+
+- number: 15-317
+  name: Constructive Logic
+  instructor: Karl Crary
+
+- number: 15-316
+  name: Software Foundations of Security and Privacy
+  instructor: Matt Fredrikson
+
+- number: 15-330
+  name: Introduction to Computer Security
+  instructor: Bryan Parno
+
+- number: 15-424
+  name: Logical Foundations of Cyber-Physical Systems
+  instructor: Stefan Mitsch
+- number: 15-814
+  name: Types and Programming Languages
+  instructor: Jan Hoffman
+
+- number: 15-816
+  name: 'Advanced Topics in Logic: Automated Reasoning and Satisfiability'
+  instructor: Marijn Heule
+
+- number: 15-836
+  name: Substructural Logics
+  instructor: Frank Pfenning
+
+- number: 15-898
+  name: Quantum Computing Systems
+  instructor: Umut Acar
+
+- number: 17-363
+  name: Programming Language Pragmatics
+  instructor: Jonathan Aldrich; Benjamin Titzer
+
+- number: 80-411
+  name: Proof Theory
+  instructor: Jeremey Avigad
+
+- number: 80-715
+  name: Seminar on Homotopy Type Theory
+  instructor: Steve Awodey

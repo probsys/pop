@@ -1,0 +1,169 @@
+Current:
+  - department: Computer Science Department
+    faculty:
+    - name: Umut Acar
+      title: Associate Professor
+      url: http://www.umut-acar.org
+      image: people/acar.jpg
+      interests: algorithms and data structures, parallel computing, programming languages, software systems and architecture
+
+    - name: Stephanie Balzer
+      title: Assistant Research Professor
+      url: http://www.cs.cmu.edu/~balzers
+      image: people/balzer.jpg
+      interests: programming languages, program verification, type theory, logic
+
+    - name: Guy Blelloch
+      title: Professor
+      url: http://www.cs.cmu.edu/~blelloch
+      image: people/blelloch.jpg
+      interests: algorithms and data structures, parallel computing, theory of computing
+
+    - name: Stephen Brookes
+      title: Professor
+      url: http://www.cs.cmu.edu/~brookes
+      image: people/brookes.jpg
+      interests: theory of computing, programming languages
+
+    - name: Iliano Cervesato
+      title: Teaching Professor
+      url: http://www.cs.cmu.edu/~iliano
+      image: people/cervesato.jpg
+      interests: computational logic, type theory, programming languages, concurrency
+
+    - name: Karl Crary
+      title: Professor
+      url: http://www.cs.cmu.edu/~crary
+      image: people/kcrary.jpg
+      interests: formal methods &amp; verification, logic, programming languages
+
+    - name: Matt Fredrikson
+      title: Associate Professor
+      url: http://www.cs.cmu.edu/~mfredrik
+      image: people/fredrikson.jpg
+      interests: security, privacy, formal methods
+
+    - name: Robert Harper
+      title: Professor
+      url: http://www.cs.cmu.edu/~rwh
+      image: people/harper.jpg
+      interests: programming languages
+
+    - name: Marjin Heule
+      title: Associate Professor
+      url: https://www.cs.cmu.edu/~mheule
+      image: people/mheule.jpg
+      interests: formal verification, number theory, SAT solvers, extremal combinatorics
+
+    - name: Jan Hoffmann
+      title: Associate Professor
+      url: http://www.cs.cmu.edu/~janh
+      image: people/hoffmann.jpg
+      interests: verification, programming languages, resource analysis, security
+
+    - name: Dilsun Kaynar
+      title: Associate Teaching Professor
+      url: http://www.cs.cmu.edu/~dilsun
+      image: people/kaynar.jpg
+      interests: modeling and verification, programming languages, security
+
+    - name: Stefan Mitsch
+      title: Senior Systems Scientist
+      url: http://www.cs.cmu.edu/~smitsch
+      image: people/mitsch.jpg
+      interests: modeling, refactoring, collaboration, verification methods for hybrid systems
+
+    - name: Bryan Parno
+      title: Professor
+      url: http://www.andrew.cmu.edu/user/bparno
+      image: people/parno.jpg
+      interests: verification, security
+
+    - name: Frank Pfenning
+      title: Professor
+      url: http://www.cs.cmu.edu/~fp
+      image: people/pfenning.jpg
+      interests: programming languages, logic, security
+
+    - name: Andre Platzer
+      title: Professor
+      url: http://symbolaris.com
+      image: people/platzer.png
+      interests: control systems, cyber physical systems, formal methods &amp; verification, game theory, logic, programming languages, robotics, security
+
+    - name: Feras Saad
+      title: Assistant Professor
+      url: https://www.cs.cmu.edu/~fsaad
+      image: people/saad.png
+      interests: probabilistic programming, program synthesis, Bayesian inference, computational statistics
+
+  - department: Electrical and Computer Engineering Department
+    faculty:
+    - name: Limin Jia
+      title: Research Professor
+      url: https://www.andrew.cmu.edu/user/liminjia/
+      image: people/jia.jpg
+      interests: formal aspects of software security
+
+  - department: Departments of Mathematical Sciences and Philosophy
+    faculty:
+    - name: Jeremy Avigad
+      title: Professor
+      url: http://www.andrew.cmu.edu/user/avigad
+      image: people/avigad.jpg
+      interests: mathematical logic, proof theory, philosophy of mathematics, formal verification, automated reasoning
+
+    - name: Steve Awodey
+      title: Professor
+      url: https://www.andrew.cmu.edu/user/awodey
+      image: people/awodey.jpg
+      interests: category theory, logic, philosophy of mathematics, early analytic philosophy
+
+    - name: Richard Statman
+      title: Professor
+      url: https://www.math.cmu.edu/math/faculty/StatmanRichard
+      image: people/statman.jpg
+      interests: proof theory, theory of computation, theory of programming languages
+
+  - department: Software and Societal Systems
+    faculty:
+    - name: Jonathan Aldrich
+      title: Professor
+      url: https://www.cs.cmu.edu/~aldrich/
+      image: people/aldrich.jpg
+      interests: compilers, formal methods &amp; verification, parallel computing, programming languages, software engineering
+
+    - name: William Scherlis
+      title: Professor
+      url: https://s3d.cmu.edu/people/core-faculty/scherlis-william.html
+      image: people/scherlis.jpg
+      interests: software engineering, software systems and architecture, parallel computing
+
+Former:
+  - name: Peter B. Andrews
+    title: Professor
+    url: http://gtps.math.cmu.edu/andrews.html
+    image: people/andrews.jpg
+    interests: type theory, automated deduction
+
+  - name: Edmund Clarke
+    title: Professor
+    url: http://www.cs.cmu.edu/~emc/
+    image: people/clarke.jpg
+    interests: formal methods &amp; verification
+
+  - name: Dana Scott
+    title: Professor
+    url: http://www.cs.cmu.edu/~scott/
+    image: people/scott.jpg
+
+  - name: John Reynolds
+    title: Professor
+    url: http://www.cs.cmu.edu/~jcr/
+    image: people/reynolds.jpg
+
+  - name: Jean Yang
+    title: Assistant Professor
+    url: http://www.cs.cmu.edu/~jyang2/
+    image: people/yang.jpg
+    interests: formal methods &amp; verification, programming languages, security, computational biology

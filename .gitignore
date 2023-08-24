@@ -1,0 +1,13 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
+
+# for macOS (qsu1)
+.DS_Store
+.AppleDouble
+.LSOverride
+
+.idea/
+.ruby-version
