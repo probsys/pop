@@ -5,9 +5,11 @@ To build the website locally:
 - Run `bundle install` in root of this repository.
 - Run `bundle exec jekyll serve` to host website on `localhost:4000/pop`.
 
-To make the website live on https://cs.cmu.edu/~pop, run the above steps to
-build locally and then publish the `_site/` directory
-to `/afs/cs.cmu.edu/project/pop/www/`
+To make the website live on https://cs.cmu.edu/~pop, run the following
+scripts
 
-    $ bundle exec jekyll build
     $ ./deploy.sh
+
+This script will push the `_site` directory to
+`/afs/cs.cmu.edu/project/pop/www/`; users will be prompted for
+kerberos credentials if none are found.
