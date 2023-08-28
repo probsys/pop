@@ -17,4 +17,4 @@ news: false
 
 #### Visiting Campus
 - [Epicurean in Pittsburgh](https://people.eecs.berkeley.edu/~efros/Epicurean.pdf)
-- [Visit Carnegie Mellon](https://www.cmu.edu/about/visit/)
+- [Visit Carnegie Mellon](https://www.cmu.edu/visit/)
