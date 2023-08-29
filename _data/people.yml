@@ -103,7 +103,7 @@ Current:
       title: Research Professor
       url: https://www.andrew.cmu.edu/user/liminjia/
       image: people/jia.jpg
-      interests: formal aspects of software security
+      interests: formal aspects of software security; applying formal logic to constructing software systems with known security guarantees
 
   - department: Departments of Mathematical Sciences and Philosophy
     faculty:
