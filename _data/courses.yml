@@ -50,6 +50,10 @@
   name: Programming Language Pragmatics
   instructor: Jonathan Aldrich; Benjamin Titzer
 
+- number: 18-732
+  name: Secure Software Systems
+  instructor: Bryan Parno
+
 - number: 80-411
   name: Proof Theory
   instructor: Jeremey Avigad
