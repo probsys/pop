@@ -47,7 +47,7 @@ Current:
       title: Professor
       url: http://www.cs.cmu.edu/~rwh
       image: people/harper.jpg
-      interests: programming languages
+      interests: programming language design and implementation, type theory, verification of cost and correctness of programs
 
     - name: Marijn Heule
       title: Associate Professor
