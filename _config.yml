@@ -29,8 +29,22 @@ collections:
       layout: post
     output: true
     permalink: /announcements/:path/
+  talks:
+    sort_by: date
+    output: true
+    permalink: /talks/:path/
 
 announcements_limit: 5
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "talks" # a collection in your site, in plural form
+    values:
+      layout: "talk"
+      logo: "cmu-logo.png"
+      
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -61,5 +75,6 @@ jquery_version: "1.12.4"
 katex_version: "0.10.1"
 anchorjs_version: "3.2.2"
 latexjs_version: "0.11.1"
+future: true
 
 theme: jekyll-theme-slate

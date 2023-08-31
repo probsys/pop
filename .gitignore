@@ -11,3 +11,6 @@ Gemfile.lock
 
 .idea/
 .ruby-version
+
+# for emacs users
+*~
