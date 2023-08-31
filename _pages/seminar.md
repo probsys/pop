@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /seminar/
-title: PoP Seminar
+title: Seminar Series
 logo: cmu-logo.png
 news: yes
 ---
