@@ -152,18 +152,32 @@ Former:
     image: people/clarke.jpg
     interests: formal methods &amp; verification
 
-  - name: Dana Scott
+  - name: Peter Lee
     title: Professor
-    url: http://www.cs.cmu.edu/~scott/
-    image: people/scott.jpg
+    url: https://www.microsoft.com/en-us/research/people/petelee/
+    image: people/lee.jpg
+    interests: software reliability, program analysis, security, programming language design
 
   - name: John Reynolds
     title: Professor
     url: http://www.cs.cmu.edu/~jcr/
     image: people/reynolds.jpg
+    interests: type theory, proof systems, programming language semantics
+
+  - name: Dana Scott
+    title: Professor
+    url: http://www.cs.cmu.edu/~scott/
+    image: people/scott.jpg
+    interests: computability theory, foundations of logic, philosophy of mathematics,programming language semantics
 
   - name: Jean Yang
     title: Assistant Professor
     url: http://www.cs.cmu.edu/~jyang2/
     image: people/yang.jpg
     interests: formal methods &amp; verification, programming languages, security, computational biology
+
+  - name: Jeanette Wing
+    title: Professor
+    url: https://datascience.columbia.edu/people/jeannette-m-wing/
+    image: people/wing.jpg
+    interests: security and privacy, formal methods, programming languages, distributed and concurrent systems
