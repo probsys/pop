@@ -152,11 +152,23 @@ Former:
     image: people/clarke.jpg
     interests: formal methods &amp; verification
 
+  - name: Eric Cooper
+    title: Professor
+    url: https://www.cs.cmu.edu/~ecc/
+    image: people/cooper.jpg
+    interests: computer networks, operating systems, programming languages
+
   - name: Peter Lee
     title: Professor
     url: https://www.microsoft.com/en-us/research/people/petelee/
     image: people/lee.jpg
     interests: software reliability, program analysis, security, programming language design
+
+  - name: Daniel Leivant
+    title: Associate Professor
+    url: https://legacy.cs.indiana.edu/~leivant/
+    image: people/leivant.jpg
+    interests: mathematical foundations of programming semantics
 
   - name: John Reynolds
     title: Professor
@@ -169,6 +181,12 @@ Former:
     url: http://www.cs.cmu.edu/~scott/
     image: people/scott.jpg
     interests: computability theory, foundations of logic, philosophy of mathematics,programming language semantics
+
+  - name: Robert Simmons
+    title: Assistant Teaching Professor
+    url: http://www.cs.cmu.edu/~rjsimmon/
+    image: people/simmons.jpg
+    interests: structural proof theory, type theory
 
   - name: Jean Yang
     title: Assistant Professor
