@@ -24,27 +24,21 @@ rss:  # notes rss
 # Collections
 # -----------------------------------------------------------------------------
 collections:
-  announcements:
-    defaults:
-      layout: post
-    output: true
-    permalink: /announcements/:path/
   talks:
     sort_by: date
     output: true
-    permalink: /talks/:path/
+    permalink: /seminar/:path/
 
-announcements_limit: 5
+announcements_limit:
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "talks" # a collection in your site, in plural form
     values:
       layout: "talk"
       logo: "cmu-logo.png"
-      
+
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

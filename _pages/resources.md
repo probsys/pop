@@ -9,7 +9,7 @@ news: false
 ### Resources
 
 #### Seminars and Meetings
-- [Principles of Programming Seminar]()
+- [Principles of Programming Seminar Archive (1998 -- 2016)](https://www.cs.cmu.edu/~./popseminar/)
 - [Oregon Programming Languages Summer School](https://www.cs.uoregon.edu/research/summerschool/)
 
 #### Mailing Lists

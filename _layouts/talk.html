@@ -1,10 +1,28 @@
 ---
 layout: default
 ---
-<h3>PoP Seminar Talk</h3>
 
-<h2>{{page.speaker}}: {{page.title}}</h2>
+<div class="post">
 
-<p>{{ page.date | date_to_string }}, {{ page.time }} - {{ page.room }}</p>
+  {% include banner.html %}
 
-{{ content }}
+  <article class="post-content {{page.title}} clearfix">
+    <h3>PoP Seminar Talk</h3>
+    <h4>{{page.title}}</h4>
+    <p>
+    <strong><a href="{{page.speaker_url}}">{{page.speaker}}</a></strong>,
+    {{page.speaker_title}}<br/>
+    {{ page.date | date: "%A, %d %B, %Y" }}; {{ page.time }}<br/>
+    {{ page.room }}<br/>
+    Host: {{page.host}}
+    </p>
+
+    {{ content }}
+  </article>
+
+</div>
+
+
+
+
+
