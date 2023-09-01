@@ -16,7 +16,7 @@ news: false
 {% endif %}
 <ul class="instructor-info">
   <li><a href="{{ instructor.url }}" target="_blank">{{ instructor.name }}</a></li>
-  <li>{{ instructor.title }}</li>
+  <!-- <li>{{ instructor.title }}</li> -->
   <li style="font-size:smaller; padding-top:5pt">{{ instructor.interests }}</li>
 </ul>
 </div>
