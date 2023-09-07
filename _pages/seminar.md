@@ -10,15 +10,15 @@ news: yes
 
 <table class='table table-striped'>
 <tr>
-  <td><b>Title</b></td>
-  <td><b>Speaker</b></td>
   <td><b>Date</b></td>
+  <td><b>Speaker</b></td>
+  <td><b>Title</b></td>
 </tr>    
 {% for page in site.talks reversed %}
 <tr>
-  <td><a href="{{ page.url | relative_url }}">{{ page.title }}</a></td>
+  <td>{{ page.date | date: "%b %d %Y" }}</td>
   <td>{{ page.speaker }}</td>
-  <td>{{ page.date | date: "%Y-%b-%d" }}</td>
+  <td><a href="{{ page.url | relative_url }}">{{ page.title }}</a></td>
 </tr>               
 {% endfor %}
 </table>
