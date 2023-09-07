@@ -11,9 +11,9 @@ principles, processes, and supporting technologies for the construction of
 computing systems.
 
 Areas of interest include: applications of logic (including formal
-semantics and type theory); techniques for designing and implementing
-programming languages; formal specification and verification of hardware
-and software systems; quantum computing; and probabilistic programming.
+semantics and type theory), techniques for designing and implementing
+programming languages, formal specification and verification of hardware
+and software systems, quantum computing, and probabilistic programming.
 
 A distinguishing characteristic of the PoP group is that it applies formal
 principles to problems of realistic scale and complexity, for example:
