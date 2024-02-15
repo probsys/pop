@@ -153,6 +153,13 @@ Former:
     image: people/andrews.jpg
     interests: type theory, automated deduction
 
+  - name: Randal Bryant
+    title: Professor
+    duration: 1984-2020
+    url: https://www.cs.cmu.edu/~bryant/
+    image: people/bryant.jpg
+    interests: verification, computer networks, concurrent programming
+
   - name: Edmund Clarke
     title: Professor
     duration: 1982-2015
