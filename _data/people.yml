@@ -73,6 +73,12 @@ Current:
       image: people/mitsch.jpg
       interests: modeling, refactoring, collaboration, verification methods for hybrid systems
 
+    - name: Ruben Martins
+      title: Assistant Research Professor
+      url: https://sat-group.github.io/ruben/
+      image: people/martins.jpg
+      interests: constraint programming, verification, synthesis, decision procedures
+
     - name: Bryan Parno
       title: Professor
       url: http://www.andrew.cmu.edu/user/bparno
