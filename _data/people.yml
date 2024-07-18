@@ -19,12 +19,6 @@ Current:
       image: people/blelloch.jpg
       interests: algorithms and data structures, parallel computing, theory of computing
 
-    - name: Stephen Brookes
-      title: Professor
-      url: http://www.cs.cmu.edu/~brookes
-      image: people/brookes.jpg
-      interests: theory of computing, programming languages
-
     - name: Iliano Cervesato
       title: Teaching Professor
       url: http://www.cs.cmu.edu/~iliano
@@ -152,6 +146,13 @@ Former:
     url: http://gtps.math.cmu.edu/andrews.html
     image: people/andrews.jpg
     interests: type theory, automated deduction
+
+  - name: Stephen Brookes
+    duration: 1984-2024
+    title: Professor
+    url: http://www.cs.cmu.edu/~brookes
+    image: people/brookes.jpg
+    interests: theory of computing, programming languages
 
   - name: Randal Bryant
     title: Professor
