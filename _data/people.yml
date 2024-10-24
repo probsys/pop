@@ -144,35 +144,35 @@ Former:
 
   - name: Randal Bryant
     title: Professor
-    duration: 1984-2020
+    duration: 1984–2020
     url: https://www.cs.cmu.edu/~bryant/
     image: people/bryant.jpg
     interests: verification, computer networks, concurrent programming
 
   - name: Edmund Clarke
     title: Professor
-    duration: 1982-2015
+    duration: 1982–2015
     url: http://www.cs.cmu.edu/~emc/
     image: people/clarke.jpg
     interests: formal methods &amp; verification
 
   - name: Eric Cooper
     title: Professor
-    duration: 1985-1991
+    duration: 1985–1991
     url: https://www.cs.cmu.edu/~ecc/
     image: people/cooper.jpg
     interests: computer networks, operating systems, programming languages
 
   - name: Peter Lee
     title: Professor
-    duration: 1988-2009
+    duration: 1988–2009
     url: https://www.microsoft.com/en-us/research/people/petelee/
     image: people/lee.jpg
     interests: software reliability, program analysis, security, programming language design
 
   - name: Daniel Leivant
     title: Associate Professor
-    duration: 1981-1991
+    duration: 1981–1991
     url: https://legacy.cs.indiana.edu/~leivant/
     image: people/leivant.jpg
     interests: mathematical foundations of programming semantics
@@ -193,35 +193,35 @@ Former:
 
   - name: John Reynolds
     title: Professor
-    duration: 1986-2013
+    duration: 1986–2013
     url: http://www.cs.cmu.edu/~jcr/
     image: people/reynolds.jpg
     interests: type theory, proof systems, programming language semantics
 
   - name: Dana Scott
     title: Professor
-    duration: 1981-2003
+    duration: 1981–2003
     url: http://www.cs.cmu.edu/~scott/
     image: people/scott.jpg
     interests: computability theory, foundations of logic, philosophy of mathematics,programming language semantics
 
   - name: Robert Simmons
     title: Assistant Teaching Professor
-    duration: 2012-2016
+    duration: 2012–2016
     url: http://www.cs.cmu.edu/~rjsimmon/
     image: people/simmons.jpg
     interests: structural proof theory, type theory
 
   - name: Jean Yang
     title: Assistant Professor
-    duration: 2016-2018
+    duration: 2016–2018
     url: http://www.cs.cmu.edu/~jyang2/
     image: people/yang.jpg
     interests: formal methods &amp; verification, programming languages, security, computational biology
 
   - name: Jeanette Wing
     title: Professor
-    duration: 1985-2018
+    duration: 1985–2018
     url: https://datascience.columbia.edu/people/jeannette-m-wing/
     image: people/wing.jpg
     interests: security and privacy, formal methods, programming languages, distributed and concurrent systems
