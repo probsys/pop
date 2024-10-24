@@ -61,12 +61,6 @@ Current:
       image: people/kaynar.jpg
       interests: modeling and verification, programming languages, security
 
-    - name: Stefan Mitsch
-      title: Senior Systems Scientist
-      url: http://www.cs.cmu.edu/~smitsch
-      image: people/mitsch.jpg
-      interests: modeling, refactoring, collaboration, verification methods for hybrid systems
-
     - name: Ruben Martins
       title: Assistant Research Professor
       url: https://sat-group.github.io/ruben/
@@ -84,12 +78,6 @@ Current:
       url: http://www.cs.cmu.edu/~fp
       image: people/pfenning.jpg
       interests: programming languages, logic, security
-
-    - name: Andre Platzer
-      title: Professor
-      url: http://symbolaris.com
-      image: people/platzer.png
-      interests: control systems, cyber physical systems, formal methods &amp; verification, game theory, logic, programming languages, robotics, security
 
     - name: Feras Saad
       title: Assistant Professor
@@ -142,13 +130,13 @@ Current:
 Former:
   - name: Peter B. Andrews
     title: Professor
-    duration: 1963-2012
+    duration: 1963–2012
     url: http://gtps.math.cmu.edu/andrews.html
     image: people/andrews.jpg
     interests: type theory, automated deduction
 
   - name: Stephen Brookes
-    duration: 1981-2024
+    duration: 1981–2024
     title: Professor
     url: http://www.cs.cmu.edu/~brookes
     image: people/brookes.jpg
@@ -188,6 +176,20 @@ Former:
     url: https://legacy.cs.indiana.edu/~leivant/
     image: people/leivant.jpg
     interests: mathematical foundations of programming semantics
+
+  - name: Stefan Mitsch
+    title: Senior Systems Scientist
+    duration: 2016–2022
+    url: https://facweb.cdm.depaul.edu/smitsch/
+    image: people/mitsch.jpg
+    interests: modeling, refactoring, collaboration, verification methods for hybrid systems
+
+  - name: Andre Platzer
+    title: Professor
+    duration: 2008–2022
+    url: http://symbolaris.com
+    image: people/platzer.png
+    interests: control systems, cyber physical systems, formal methods &amp; verification, game theory, logic, programming languages, robotics, security
 
   - name: John Reynolds
     title: Professor
