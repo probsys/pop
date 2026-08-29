@@ -17,7 +17,7 @@ news: yes
 {% for page in site.talks reversed %}
 <tr>
   <td>{{ page.date | date: "%Y/%m/%d" }}</td>
-  <td>{{ page.speaker }}</td>
+  <td><a href="{{ page.speaker_url }}" target="_blank">{{ page.speaker }}</a></td>
   <td><a href="{{ page.url | relative_url }}">{{ page.title }}</a></td>
 </tr>               
 {% endfor %}
